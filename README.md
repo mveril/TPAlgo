@@ -1,7 +1,7 @@
 # TP algoritmique Java
 Ce TP à été effectué dans le cadre
 de la formation M2I Java Sopra Steria
-# Ex 1
+## Ex 1
 >Ecrire un algorithme qui demande l'âge d'un enfant. Ensuite, il l'informe de sa catégorie :
 >
 >« Poussin » de 7 à 9 ans
@@ -13,7 +13,7 @@ de la formation M2I Java Sopra Steria
 >« Minime » de 14 à 15 ans
 >
 >« Cadet » 16 à 17 ans
-## Pseudo code
+### Pseudo code
 ```
 Si age < 7
   Afficher "Trop jeune"
@@ -31,12 +31,12 @@ Sinon
   Afficher "Trop grand" 
 ```
 
-# Ex 1
+## Ex 2
 >Ecrire un programme Java qui demande à l'utilisateur de saisir la valeur du diamètre, et qui ensuite va effectuer le calcul de la surface.
 >
 >Surface = Rayon x Rayon x PI;
 Rayon = Diamètre / 2
-## Pseudo code
+### Pseudo code
 ```
  Diamètre
  Surface = Diametre*PI
