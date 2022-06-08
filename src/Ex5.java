@@ -5,6 +5,6 @@ public class Ex5 {
         byte age =28;
         int currYear = Calendar.getInstance().get(Calendar.YEAR);
         int yearOfBirth = currYear - age;
-        System.out.println("currYear = " + yearOfBirth);
+        System.out.println("Year of birth = " + yearOfBirth);
     }
 }
