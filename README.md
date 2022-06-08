@@ -41,3 +41,9 @@ Rayon = Diamètre / 2
  Diamètre
  Surface = Diametre*PI
 ```
+
+## Ex 3
+>Ecrire un programme Java qui demande à l'utilisateur de saisir son nom, prenom et age, et qui ensuite va afficher le message : "Vous vous appelez <prenom> <nom>, et vous avez <age> ans"
+```
+Afficher Format(
+```
