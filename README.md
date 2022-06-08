@@ -43,7 +43,7 @@ Rayon = Diamètre / 2
 ```
 
 ## Ex 3
->Ecrire un programme Java qui demande à l'utilisateur de saisir son nom, prenom et age, et qui ensuite va afficher le message : "Vous vous appelez <prenom> <nom>, et vous avez <age> ans"
+>Ecrire un programme Java qui demande à l'utilisateur de saisir son nom, prenom et age, et qui ensuite va afficher le message : "Vous vous appelez &lt;prenom&gt; &lt;nom&gt;, et vous avez &lt;age&gt; ans"
 ### Pseudo code
 ```
 Afficher Format("Vous vous appelez %s %s, et vous avez %s ans", prenom, nom, age")
