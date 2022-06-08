@@ -1,6 +1,6 @@
 public class Ex1 {
     public static void main(String[] args) {
-        byte age=18;
+        byte age=11;
         if(age < 7) {
             System.out.println("Trop jeune");
         } else if (age <= 9){
