@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08870c6c-b978-4520-9477-003c0e8751db" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,13 +28,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "terminal"
   }
-}</component>
-  <component name="RunManager" selected="Application.Ex5">
+}]]></component>
+  <component name="RunManager" selected="Application.Ex1">
     <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex1" />
       <module name="TPAlgo" />
@@ -65,10 +66,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex1" />
         <item itemvalue="Application.Ex5" />
         <item itemvalue="Application.Ex3" />
         <item itemvalue="Application.Ex2" />
-        <item itemvalue="Application.Ex1" />
       </list>
     </recent_temporary>
   </component>
@@ -93,5 +94,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

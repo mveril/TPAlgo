@@ -7,6 +7,6 @@ public class Ex5 {
         // Get the current year
         short currYear = (short) (Calendar.getInstance().get(Calendar.YEAR));
         short yearOfBirth = (short) (currYear - age);
-        System.out.println("Year of birth = " + yearOfBirth);
+        System.out.println("Votre année de naissance est : " + yearOfBirth);
     }
 }
