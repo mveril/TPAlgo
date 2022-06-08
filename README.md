@@ -17,15 +17,15 @@ de la formation M2I Java Sopra Steria
 ```
 Si age < 7
   Afficher "Trop jeune"
-Sinon si age < 9
+Sinon si age <= 9
   Afficher "Poussin"
-Sinon si age < 11
+Sinon si age <= 11
   Afficher "Pupille"
-Sinon si age < 13
+Sinon si age <= 13
   Afficher "Benjamin"
-Sinon si age < 15
+Sinon si age <= 15
   Afficher "Minime"
-Sinon si age < 17
+Sinon si age <= 17
   Afficher "Cadet"
 Sinon
   Afficher "Trop grand" 
