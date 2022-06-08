@@ -61,10 +61,11 @@ Afficher Format("Vous vous appelez %s %s, et vous avez %s ans", prenom, nom, age
 
 ### Pseudo code
 ```
-oldA=a
-oldB=b
-oldC=c
-b=oldA
-c=oldB
-a=oldC
+d=c;
+c=b;
+b=a;
+a=d;
+Afficher "a=",a
+Afficher "b=",b
+Afficher "c=",c
 ```
