@@ -38,8 +38,8 @@ Sinon
 Rayon = Diamètre / 2
 ### Pseudo code
 ```
- Diamètre
- Surface = Diametre*PI
+ Rayon=Diamètre/2
+ Surface = rayon*rayon*PI
 ```
 
 ## Ex 3
