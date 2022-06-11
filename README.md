@@ -1,4 +1,6 @@
 # TP algoritmique Java
+⚠️ Ce dépôt est une archive, [cliquez ici pour être redirigé vers le dépôt complet des TP Java](https://github.com/mveril/TP-Java).
+
 Ce TP à été effectué dans le cadre
 de la formation M2I Java Sopra Steria
 ## Ex 1
